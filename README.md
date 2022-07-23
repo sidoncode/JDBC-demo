@@ -1,5 +1,11 @@
 # JDBC-demo
 
+## Pre - requsitis will be -
+### a) Download mysql connector
+### b) download xampp or wampp server  / localhost
+### c) download jdb - jar file from HERE -> https://jar-download.com/artifacts/mysql/mysql-connector-java
+### d) download intellij  - 
+
 ![image](https://user-images.githubusercontent.com/40432616/180617411-3b81bd03-5e61-44b5-8a7c-c64d0698d727.png)
 
 
